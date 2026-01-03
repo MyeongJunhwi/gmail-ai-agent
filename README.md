@@ -1,6 +1,7 @@
 # 📧 Gmail 일정 분석 AI 에이전트
 
-Gmail에 수신된 이메일의 본문을 AI(Google Gemini)가 가져오는 파이썬 기반 AI 에이전트입니다. (향후 Google Calendar 등록 기능 추가 예정)
+Gmail에 수신된 이메일의 본문을 AI(Google Gemini)가 가져오는 파이썬 기반 AI 에이전트입니다. 
+(향후 Google Calendar 등록 기능 추가 예정)
 
 ## ✨ 주요 기능
 
